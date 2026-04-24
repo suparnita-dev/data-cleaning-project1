@@ -1,0 +1,16 @@
+ExpenseID,Category,Description,Amount,PaymentMethod,Date,Month
+1,Food,Grocery shopping,85.50,Cash,2024-01-03,January
+2,Transport,Uber ride,,Credit Card,2024-01-05,January
+3,Food,Grocery shopping,85.50,Cash,2024-01-03,January
+4,Entertainment,Netflix subscription,15.99,Credit Card,2024-01-07,January
+5,Health,Gym membership,45.00,Debit Card,2024-01-10,January
+6,Food,Restaurant dinner,9999,Cash,2024-01-12,January
+7,Utilities,Electricity bill,120.00,Debit Card,2024-02-01,February
+8,Transport,Bus pass,30.00,Cash,2024-02-05,February
+9,Food,Coffee shop,12.50,Credit Card,2024-02-08,February
+10,,Online shopping,250.00,Credit Card,2024-02-10,February
+11,Entertainment,Movie tickets,25.00,Cash,2024-02-14,February
+12,Health,Pharmacy,18.75,Debit Card,2024-02-18,February
+13,Food,Grocery shopping,92.00,Cash,2024-03-02,March
+14,Utilities,Internet bill,55.00,Debit Card,2024-03-05,March
+15,Transport,Uber ride,22.00,Credit Card,2024-03-09,March
